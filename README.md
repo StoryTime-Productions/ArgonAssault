@@ -19,7 +19,7 @@
 
 ## Description
 
-ArgonAssault is a 3D game developed using the Unity Engine. This game involves using a ship and shooting down enemies using lasers, while being navigated around an environment.
+ArgonAssault is a 3D game developed using the Unity Engine. This game involves using a ship and shooting down enemies using lasers, while navigating around an environment.
 
 ## Features
 
